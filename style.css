@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+} 
+header{
+ background-color: rgb(18, 18, 224);   
+} 
+header a{
+color:white;  
+} 
+h1{
+ color:blueviolet;   
+}
+footer p{
+ background-color: rgb(11, 255, 11);   
+} 
+nav a{
+ margin:10px ; 
+ font-size:13px; 
+ text-decoration: none; 
+ color:white;
+ border:3px solid rgb(0, 0, 71) ;
+ border-radius:10px ;
+ background-color:rgb(0, 0, 100) ;
+} 
+.popular{
+background-color: white;
+color:royalblue;
+}
+.clock{
+background-color:rgb(108, 211, 108) ;    
+} 
+.van{
+ border:3px solid rgb(113, 113, 224) ;   
+border-radius:15px;
+} 
+.big{
+ color:blue;   
+}
+.sad{ 
+ padding:10px;    
+ margin:20px ; 
+ font-size:13px; 
+ text-decoration:none; 
+ color:black;
+ border:3px solid rgb(0, 0, 170) ;    
+}
